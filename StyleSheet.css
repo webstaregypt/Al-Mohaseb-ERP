@@ -1,0 +1,168 @@
+﻿@font-face {
+    font-family: 'Adobe Arabic';
+    src: url(/fonts/AdobeArabic-Regular.otf);
+    src: url(./fonts/AdobeArabic-Regular.otf);
+    src: url(../fonts/AdobeArabic-Regular.otf);
+}
+
+@font-face {
+    font-family: 'AdobeArab';
+    src: url(/fonts/AdobeArabic-Regular.otf);
+    src: url(./fonts/AdobeArabic-Regular.otf);
+    src: url(../fonts/AdobeArabic-Regular.otf);
+}
+
+@font-face {
+    font-family: 'ae_AlMohanad';
+    src: url(/fonts/ae_AlMohanad.ttf);
+    src: url(./fonts/ae_AlMohanad.ttf);
+    src: url(../fonts/ae_AlMohanad.ttf);
+}
+
+.header
+{
+    height: 60px;
+}
+
+.header-cont
+{
+    top:0;
+}
+
+.pagetitle
+{
+    font-family:'ae_AlMohanad';
+    font-size:18px;
+    color:Maroon;
+}
+
+.copyright
+{
+    color:Black;
+    text-align:center;
+    font-size:medium;
+}
+
+.hidden
+{
+    visibility: hidden;
+}
+
+.right
+{
+    direction:rtl;
+    text-align:right;
+}
+
+.left
+{
+    text-align:left;
+    direction:ltr;
+}
+
+/* Themes*/
+.Theme,
+.ThemeDevEx,
+.ThemeOffice365,
+.ThemeMetropolis,
+.ThemeMetropolisBlue,
+.ThemeModerno,
+.ThemeOffice2010Blue,
+.ThemeOffice2010Black,
+.ThemeOffice2010Silver,
+.ThemeOffice2003Blue,
+.ThemeOffice2003Olive,
+.ThemeOffice2003Silver,
+.ThemeAqua,
+.ThemeMulberry,
+.ThemeGlass,
+.ThemeBlackGlass,
+.ThemePlasticBlue,
+.ThemeRedWine,
+.ThemeSoftOrange,
+.ThemeYouthful 
+{
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+}
+.Theme
+{
+    background-color: #DCDCDC;
+}
+.ThemeDevEx
+{
+    background-color: #CDCCF5;
+}
+.ThemeOffice365
+{
+    background-color: #004000;
+}
+.ThemeMetropolis
+{
+    background-color: #7F7F7F;
+}
+.ThemeMetropolisBlue
+{
+    background-color: #0072C6;
+}
+.ThemeModerno
+{
+    background-color: #1279c0;
+}
+.ThemeOffice2010Blue
+{
+    background-color: #B5CCE5;
+}
+.ThemeOffice2010Black
+{
+    background-color: #474747;
+}
+.ThemeOffice2010Silver
+{
+    background-color: #cdcdcd;
+}
+.ThemeOffice2003Blue
+{
+    background-color: #B5CEF2;
+}
+.ThemeOffice2003Olive
+{
+    background-color: #D4DEB6;
+}
+.ThemeOffice2003Silver
+{
+    background-color: #D1D1E0;
+}
+.ThemeAqua
+{
+    background-color: #96B9EC;
+}
+.ThemeMulberry
+{
+    background-color: #BF4E6A;
+}
+.ThemeGlass
+{
+    background-color: #C8DDE8;
+}
+.ThemeBlackGlass
+{
+    background-color: #4D5A63;
+}
+.ThemePlasticBlue
+{
+    background-color: #5066B3;
+}
+.ThemeRedWine
+{
+    background-color: #8A0E3C;
+}
+.ThemeSoftOrange
+{
+    background-color: #e9d0af;
+}
+.ThemeYouthful
+{
+    background-color: #003d00;
+}
